@@ -1,0 +1,312 @@
+[
+  [
+    ":)", 
+    "smile", 
+    "positive"
+  ], 
+  [
+    ":]", 
+    "smile", 
+    "positive"
+  ], 
+  [
+    ":D", 
+    "grin", 
+    "positive"
+  ], 
+  [
+    ":-D", 
+    "toothy grin", 
+    "positive"
+  ], 
+  [
+    "=D", 
+    "smile", 
+    "positive"
+  ], 
+  [
+    ":-)", 
+    "smile", 
+    "positive"
+  ], 
+  [
+    ":-E", 
+    "Buck-tooth or Vampire", 
+    "negative"
+  ], 
+  [
+    ">-)", 
+    "Evil grin", 
+    "negative"
+  ], 
+  [
+    ":(", 
+    "Sad", 
+    "negative"
+  ], 
+  [
+    ":-(", 
+    "Sad with nose", 
+    "negative"
+  ], 
+  [
+    ":-<", 
+    "Super sad", 
+    "negative"
+  ], 
+  [
+    ":P", 
+    "Sticking tongue out (raspberry)", 
+    "int"
+  ], 
+  [
+    ":-O", 
+    "Surprised", 
+    "int"
+  ], 
+  [
+    ":-*", 
+    "Kissing", 
+    "positive"
+  ], 
+  [
+    ":-@", 
+    "Angry", 
+    "negative"
+  ], 
+  [
+    ":-$", 
+    "Confused", 
+    "negative"
+  ], 
+  [
+    ":-\\", 
+    "Shifty", 
+    "negative"
+  ], 
+  [
+    ":-#", 
+    "Don't tell/secret", 
+    "negative"
+  ], 
+  [
+    "(((H)))", 
+    "Hugs", 
+    "positive"
+  ], 
+  [
+    ":-X", 
+    "Kiss on the lips", 
+    "positive"
+  ], 
+  [
+    "`:-)", 
+    "One eyebrow raised", 
+    "negative"
+  ], 
+  [
+    ":^)", 
+    "A broken nose", 
+    "negative"
+  ], 
+  [
+    ":-&", 
+    "tongue tied", 
+    "negative"
+  ], 
+  [
+    "E-:-)", 
+    "a Ham radio operator", 
+    "neutral"
+  ], 
+  [
+    "<:-)", 
+    "Uni-brow", 
+    "neutral"
+  ], 
+  [
+    ":->", 
+    "Big grin happy", 
+    "positive"
+  ], 
+  [
+    "(-}{-)", 
+    "Couple kissing", 
+    "positive"
+  ], 
+  [
+    "$_$", 
+    "Greedy", 
+    "positive"
+  ], 
+  [
+    "@@", 
+    "Rolling your eyes", 
+    "int"
+  ], 
+  [
+    ":-!", 
+    "\"Foot in mouth\"", 
+    "negative"
+  ], 
+  [
+    ":-D", 
+    "Laughter", 
+    "positive"
+  ], 
+  [
+    ":*)", 
+    "Drunk smile", 
+    "positive"
+  ], 
+  [
+    ":@", 
+    "Exclamation \"What???\"", 
+    "int"
+  ], 
+  [
+    ":-@", 
+    "Scream", 
+    "int"
+  ], 
+  [
+    ":-0", 
+    "Yell", 
+    "int"
+  ], 
+  [
+    ":-----)", 
+    "Long nose (Liar!)", 
+    "negative"
+  ], 
+  [
+    "%-(", 
+    "Confused", 
+    "negative"
+  ], 
+  [
+    ":-.)", 
+    "Madonna", 
+    "positive"
+  ], 
+  [
+    ":-($)", 
+    "Put your money where your mouth is", 
+    "negative"
+  ], 
+  [
+    "(: I", 
+    "An egghead", 
+    "negative"
+  ], 
+  [
+    "|-O", 
+    "Yawning", 
+    "negative"
+  ], 
+  [
+    ":@)", 
+    "Pig smile", 
+    "negative"
+  ], 
+  [
+    "<(-_-)>", 
+    "Robot", 
+    "negative"
+  ], 
+  [
+    "d[-_-]b", 
+    "DJ with headphones", 
+    "neutral"
+  ], 
+  [
+    "~:0", 
+    "Baby", 
+    "neutral"
+  ], 
+  [
+    "-@--@-", 
+    "Eyeglasses", 
+    "positive"
+  ], 
+  [
+    "\\VVV/", 
+    "King", 
+    "positive"
+  ], 
+  [
+    "\\%%%/", 
+    "", 
+    "ueen"
+  ], 
+  [
+    ":-#", 
+    "With braces", 
+    "neutral"
+  ], 
+  [
+    ":'-)", 
+    "Happy Crying", 
+    "positive"
+  ], 
+  [
+    "{:-)", 
+    "Toupee smile", 
+    "positive"
+  ], 
+  [
+    ";)", 
+    "Winking smile", 
+    "positive"
+  ], 
+  [
+    ";-)", 
+    "Winking smile with nose", 
+    "positive"
+  ], 
+  [
+    "O:-)", 
+    "I'm an angel (boy)", 
+    "positive"
+  ], 
+  [
+    "O*-)", 
+    "I'm an angel (girl)", 
+    "positive"
+  ], 
+  [
+    "|-O", 
+    "Yawn", 
+    "negative"
+  ], 
+  [
+    "(:-D", 
+    "Gossip, blabbermouth", 
+    "negative"
+  ], 
+  [
+    "@>--;--", 
+    "Rose", 
+    "positive"
+  ], 
+  [
+    "@-}---", 
+    "Rose", 
+    "positive"
+  ], 
+  [
+    "=^.^=", 
+    "Cat", 
+    "neutral"
+  ], 
+  [
+    "O.o", 
+    "Confused", 
+    "negative"
+  ],
+  [
+    ":-Q",
+    "Smoking",
+    "negative"
+  ]
+]
